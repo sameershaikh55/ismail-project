@@ -14,7 +14,6 @@ const News = () => {
 					<Searcher />
 				</div>
 				<NewFooter />
-				{/* <Footer /> */}
 			</Navbar>
 		</div>
 	);

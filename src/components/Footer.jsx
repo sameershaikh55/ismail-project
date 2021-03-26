@@ -81,11 +81,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
-// position: relative;
-//     max-width: 970px;
-//     margin: 0 auto;
-//     display: flex;
-//     justify-content: space-around;
-//     /* align-items: center; */
-//     margin: 42px auto;

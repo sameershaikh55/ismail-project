@@ -9,13 +9,8 @@ const common = () => {
 				<div className="leet-central-news-box-date">
 					<b>2021-03-22</b> 03:22:49 by <b>CardMafia</b>
 				</div>
-				<noscript>
-					&lt;div className="leet-central-news-box-title"&gt;TITLE
-					HERE&lt;/div&gt;
-				</noscript>
 				<div className="leet-central-news-box-description">
 					<p>Hey Carders,</p>
-					<p>&nbsp;</p>
 					<p>
 						<span
 							className="leet-central-news-box-date"
@@ -138,7 +133,6 @@ const common = () => {
 							Underground dumps shop 13 [ZIP] (2021-03-22)
 						</font>
 					</p>
-					<p>&nbsp;</p>
 
 					<p>
 						<br />
@@ -152,7 +146,6 @@ const common = () => {
 			{/* ======================== FIRST SECTION END ======================= */}
 
 			{/* ======================== SECOND SECTION START ======================= */}
-
 			<div className="leet-central-news-box">
 				<div className="leet-central-news-box-ico"></div>
 				<div className="leet-central-news-box-date">
@@ -161,7 +154,6 @@ const common = () => {
 
 				<div className="leet-central-news-box-description">
 					<p>Hey Carders,</p>
-					<p>&nbsp;</p>
 					<p>
 						<span
 							className="leet-central-news-box-date"
@@ -271,7 +263,6 @@ const common = () => {
 					</h2>
 					<br />
 					<h2>
-						<p>&nbsp;</p>
 						<h2
 							style={{
 								fontFamily: "Lato, sans",
@@ -333,7 +324,6 @@ const common = () => {
 							</span>
 						</h>
 						<br />
-						<p>&nbsp;</p>
 						<p>
 							<br />
 							Regards
@@ -357,7 +347,6 @@ const common = () => {
 				</div>
 				<div className="leet-central-news-box-description">
 					<p>Hey Carders,</p>
-					<p>&nbsp;</p>
 					<p>
 						<span
 							className="leet-central-news-box-date"
@@ -439,19 +428,16 @@ const common = () => {
 			{/* ======================== THIRD SECTION END ======================= */}
 
 			{/* ======================== FOURTH SECTION START ======================= */}
-			<div class="leet-central-news-box">
-				<div class="leet-central-news-box-ico"></div>
-				<div class="leet-central-news-box-date">
+			<div className="leet-central-news-box">
+				<div className="leet-central-news-box-ico"></div>
+				<div className="leet-central-news-box-date">
 					<b>2021-03-19</b> 00:22:49 by <b>CardMafia</b>
 				</div>
-				<div class="leet-central-news-box-description">
+				<div className="leet-central-news-box-description">
 					<p>Hey guys,</p>
 					<p>
-						<br />
-					</p>
-					<p>
 						<span
-							class="leet-central-news-box-date"
+							className="leet-central-news-box-date"
 							style={{ textAlign: "center" }}
 						>
 							!!! We are the only shop that offer '12 Hour' Card Refund (Check)
@@ -547,15 +533,16 @@ const common = () => {
 			{/* ======================== FOURTH SECTION END ======================= */}
 
 			{/* ======================== FIFTH SECTION START ======================= */}
-			<div class="leet-central-news-box">
-				<div class="leet-central-news-box-ico"></div>
-				<div class="leet-central-news-box-date">
+			<div className="leet-central-news-box">
+				<div className="leet-central-news-box-ico"></div>
+				<div className="leet-central-news-box-date">
 					<b>2021-03-17</b> 03:38:54 by <b>u1m</b>
 				</div>
 				<noscript>
-					&lt;div class="leet-central-news-box-title"&gt;TITLE HERE&lt;/div&gt;
+					&lt;div className="leet-central-news-box-title"&gt;TITLE
+					HERE&lt;/div&gt;
 				</noscript>
-				<div class="leet-central-news-box-description">
+				<div className="leet-central-news-box-description">
 					<p>
 						Hello guys,
 						<br />
@@ -625,9 +612,6 @@ const common = () => {
 				<div className="leet-central-news-box-date">
 					<b>2021-03-13</b> 00:09:50 by <b>CardMafia</b>
 				</div>
-				<noscript>
-					&lt;div class="leet-central-news-box-title"&gt;TITLE HERE&lt;/div&gt;
-				</noscript>
 				<div className="leet-central-news-box-description">
 					<p>
 						Hey Carders,
@@ -897,15 +881,16 @@ const common = () => {
 			{/* ======================== NINE SECTION END ======================= */}
 
 			{/* ======================== TENTH SECTION END ======================= */}
-			<div class="leet-central-news-box">
-				<div class="leet-central-news-box-ico"></div>
-				<div class="leet-central-news-box-date">
+			<div className="leet-central-news-box">
+				<div className="leet-central-news-box-ico"></div>
+				<div className="leet-central-news-box-date">
 					<b>2021-02-24</b> 03:33:14 by <b>CardMafia</b>
 				</div>
 				<noscript>
-					&lt;div class="leet-central-news-box-title"&gt;TITLE HERE&lt;/div&gt;
+					&lt;div className="leet-central-news-box-title"&gt;TITLE
+					HERE&lt;/div&gt;
 				</noscript>
-				<div class="leet-central-news-box-description">
+				<div className="leet-central-news-box-description">
 					Good day everyone,
 					<br />
 					<br />
@@ -944,12 +929,12 @@ const common = () => {
 			{/* ======================== TENTH SECTION END ======================= */}
 
 			{/* ======================== ELEVENTH SECTION END ======================= */}
-			<div class="leet-central-news-box">
-				<div class="leet-central-news-box-ico"></div>
-				<div class="leet-central-news-box-date">
+			<div className="leet-central-news-box">
+				<div className="leet-central-news-box-ico"></div>
+				<div className="leet-central-news-box-date">
 					<b>2021-02-18</b> 00:25:40 by <b>CardMafia</b>
 				</div>
-				<div class="leet-central-news-box-description">
+				<div className="leet-central-news-box-description">
 					Hey Carders
 					<br />
 					<br />
@@ -979,12 +964,12 @@ const common = () => {
 			{/* ======================== ELEVENTH SECTION END ======================= */}
 
 			{/* ======================== TWELVE SECTION START ======================= */}
-			<div class="leet-central-news-box">
-				<div class="leet-central-news-box-ico"></div>
-				<div class="leet-central-news-box-date">
+			<div className="leet-central-news-box">
+				<div className="leet-central-news-box-ico"></div>
+				<div className="leet-central-news-box-date">
 					<b>2021-02-18</b> 00:25:40 by <b>CardMafia</b>
 				</div>
-				<div class="leet-central-news-box-description">
+				<div className="leet-central-news-box-description">
 					Hey Carders
 					<br />
 					<br />
@@ -1014,12 +999,12 @@ const common = () => {
 			{/* ======================== TWELVE SECTION END ======================= */}
 
 			{/* ======================== THIRTEENTH SECTION START ======================= */}
-			<div class="leet-central-news-box">
-				<div class="leet-central-news-box-ico"></div>
-				<div class="leet-central-news-box-date">
+			<div className="leet-central-news-box">
+				<div className="leet-central-news-box-ico"></div>
+				<div className="leet-central-news-box-date">
 					<b>2021-02-11</b> 00:28:42 by <b>CardMafia</b>
 				</div>
-				<div class="leet-central-news-box-description">
+				<div className="leet-central-news-box-description">
 					700 UK cvv2 added to shop high quality validity cards,
 					<br />
 					Highly recommend do not take checked cards.

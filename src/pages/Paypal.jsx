@@ -8,7 +8,7 @@ const Paypal = ({ margins }) => {
 	return (
 		<div>
 			<Navbar>
-				<div className={`news_body ${margins}`}>
+				<div className={`paypal_body ${margins}`}>
 					<Activation />
 					<Searcher />
 				</div>
